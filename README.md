@@ -1,2 +1,2 @@
-# -practical-software-data-science-app
+# practical-software-data-science-app
 The accompanying project
